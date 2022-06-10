@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c1fe6ccf884d48ef04a5366905ae2175.js"
+  "/precache-manifest.2af9a0f3dcc084dac6b94e321b85ba97.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mohammadrezahq"});
